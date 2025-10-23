@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning .NET
 - 💞️ I’m looking to collaborate on Web Designing
-- 📫 Reach me on telegram @JVI35
+- 📫 Reach me on here
 
 <!---
 JavadMS/JavadMS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
